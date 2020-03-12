@@ -1,0 +1,8 @@
+package com.pzh.designpattern.abstractfactory;
+
+/**
+ * Created by Herman Peng on 2020/3/8.
+ */
+public interface INote {
+    void note();
+}
